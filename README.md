@@ -2,16 +2,16 @@
 ## Overview
 A console-based C# application for managing athlete registration and categorization in championship events using .NET 6.0.
 
-Project Duration: October 2022 - November 2022
+**Project Duration**: October 2022 - November 2022
 
 ## Project Structure
 ```bash
 Championship/
 ├── Championship.sln              # Visual Studio solution file
-├── README.md                        # Project documentation
+├── README.md                     # Project documentation
 └── Championship/                 # Main project directory
-    ├── Program.cs                   # Main application source code
-    └── Championship.csproj      # Project configuration file
+    ├── Program.cs                # Main application source code
+    └── Championship.csproj       # Project configuration file
 ```
 
 ## Features

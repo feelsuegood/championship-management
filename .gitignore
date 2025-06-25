@@ -1,0 +1,40 @@
+# Visual Studio
+.vs/
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# NuGet Packages
+packages/
+*.nupkg
+*.snupkg
+
+# Visual Studio cache files
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+.fake
